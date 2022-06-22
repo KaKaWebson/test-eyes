@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb7501E32979Ae20B0e5d1A38E2417bbC89AD86fE",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb7501E32979Ae20B0e5d1A38E2417bbC89AD86fE",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Polygon Test Eyes",
+  "SYMBOL": "PTE",
+  "MAX_SUPPLY": 169,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/polygon-test-eyes",
+  "SHOW_BACKGROUND": true
+}
